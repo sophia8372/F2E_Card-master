@@ -4,7 +4,7 @@ const ghpages = require('gh-pages');
 
 const options = {
     branch: 'gh-pages',
-    repo: 'https://github.com/andrew781026/F2E_Card.git' // project github repo
+    repo: 'https://github.com/sophia8372/F2E_Card-master.git' // project github repo
 };
 
 const callback = err => {
